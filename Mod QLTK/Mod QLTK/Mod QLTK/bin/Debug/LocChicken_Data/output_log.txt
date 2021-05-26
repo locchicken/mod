@@ -1,0 +1,112 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   Intel
+    VRAM:     1114 MB
+    Driver:   27.20.100.8681
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\LocChicken_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\LocChicken_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\LocChicken_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\LocChicken_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\LocChicken_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\LocChicken_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\LocChicken_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\LocChicken_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\LocChicken_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\LocChicken_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 2.242400 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 760 -> priority: 1 
+  Thread -> id: 10d0 -> priority: 1 
+  Thread -> id: 1c28 -> priority: 1 
+  Thread -> id: 29fc -> priority: 1 
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to create a material from string - this is no longer supported.
+ 
+(Filename:  Line: 1086)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon4.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 152 unused Assets to reduce memory usage. Loaded Objects now: 648.
+Total: 1.651400 ms (FindLiveObjects: 0.064400 ms CreateObjectMapping: 0.091900 ms MarkObjects: 1.354100 ms  DeleteObjects: 0.139700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 2.884400 ms (FindLiveObjects: 0.062400 ms CreateObjectMapping: 0.081800 ms MarkObjects: 2.710300 ms  DeleteObjects: 0.028600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 2.308500 ms (FindLiveObjects: 0.048400 ms CreateObjectMapping: 0.068800 ms MarkObjects: 2.186100 ms  DeleteObjects: 0.004200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 134 unused Assets to reduce memory usage. Loaded Objects now: 722.
+Total: 1.847400 ms (FindLiveObjects: 0.050000 ms CreateObjectMapping: 0.035700 ms MarkObjects: 1.532300 ms  DeleteObjects: 0.228400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+APP QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+  at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  at System.IO.Stream.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+APP QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon4.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+APP QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 724.
+Total: 2.169300 ms (FindLiveObjects: 0.057000 ms CreateObjectMapping: 0.034800 ms MarkObjects: 2.054200 ms  DeleteObjects: 0.022100 ms)
+

@@ -1,0 +1,42 @@
+C:\Users\ACER\source\repos\Mod QLTK\Mod QLTK\bin\Debug\Mod QLTK.exe.config
+C:\Users\ACER\source\repos\Mod QLTK\Mod QLTK\bin\Debug\Mod QLTK.exe
+C:\Users\ACER\source\repos\Mod QLTK\Mod QLTK\bin\Debug\Mod QLTK.pdb
+C:\Users\ACER\source\repos\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Mod QLTK\Mod QLTK\obj\Debug\Mod_QLTK.Form1.resources
+C:\Users\ACER\source\repos\Mod QLTK\Mod QLTK\obj\Debug\Mod_QLTK.Properties.Resources.resources
+C:\Users\ACER\source\repos\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.exe
+C:\Users\ACER\source\repos\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.pdb
+C:\Users\HP\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\Mod QLTK.exe.config
+C:\Users\HP\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\Mod QLTK.exe
+C:\Users\HP\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\Mod QLTK.pdb
+C:\Users\HP\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod_QLTK.Form1.resources
+C:\Users\HP\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod_QLTK.Properties.Resources.resources
+C:\Users\HP\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.exe
+C:\Users\HP\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.pdb
+C:\Users\ACER\Desktop\Mod QLTK\Mod QLTK\bin\Debug\Mod QLTK.exe.config
+C:\Users\ACER\Desktop\Mod QLTK\Mod QLTK\bin\Debug\Mod QLTK.exe
+C:\Users\ACER\Desktop\Mod QLTK\Mod QLTK\bin\Debug\Mod QLTK.pdb
+C:\Users\ACER\Desktop\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Mod QLTK\Mod QLTK\obj\Debug\Mod_QLTK.Form1.resources
+C:\Users\ACER\Desktop\Mod QLTK\Mod QLTK\obj\Debug\Mod_QLTK.Properties.Resources.resources
+C:\Users\ACER\Desktop\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.exe
+C:\Users\ACER\Desktop\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.pdb
+C:\Users\ACER\Desktop\Mod QLTK\Mod QLTK\bin\Debug\xNet.dll
+C:\Users\ACER\Desktop\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.csproj.CopyComplete
+C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\Mod QLTK.exe.config
+C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\Mod QLTK.exe
+C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\bin\Debug\Mod QLTK.pdb
+C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.csprojAssemblyReference.cache
+C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod_QLTK.Form1.resources
+C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod_QLTK.Properties.Resources.resources
+C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.csproj.GenerateResource.cache
+C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.csproj.CoreCompileInputs.cache
+C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.exe
+C:\Users\Simple Love\Downloads\Mod QLTK\Mod QLTK\Mod QLTK\obj\Debug\Mod QLTK.pdb
